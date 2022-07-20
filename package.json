@@ -58,7 +58,7 @@
     "prettier": "2.1.1",
     "requirejs": "^2.3.6",
     "rollup": "^2.33.1",
-    "terser": "^5.3.8",
+    "terser": "^5.14.2",
     "tslib": "^2.0.1",
     "typescript": "4.0.5"
   },
